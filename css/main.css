@@ -29,11 +29,6 @@ nav.navbar {
 
 }
 
-.navbar-collapse {
-    //border-top: 1px solid #fff !important;
-    //border-bottom: 1px solid #fff !important;
-}
-
 .navbar-toggle {
     border: 1px solid #ff836a !important;
 }
@@ -49,13 +44,11 @@ nav.navbar {
 }
 
 .navbar .navbar-nav > li > a, .navbar-default .navbar-nav > li > a {
-    //background-color: #FFFF00;
     color: #ff836a !important;
     font-weight: bold;
 }
 
 .navbar .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    //background-color: #FFFF00;
     color: #FFC0CB;
 }
 
@@ -108,12 +101,10 @@ header.site-header p a {
     border: 3px solid #c0ece8;
     font-size: 1em;
     background: transparent;
-    //background: red !important;
+
 }
 
 ul {
-    //padding-left: 20px;
-    //margin-left: 0;
     list-style-position: outside;
 }
 
