@@ -129,7 +129,7 @@ layout: default
 
 <h1 id="textilgolv" class="page-header">Textilgolv</h1>
 
-* [Interfacefloor](http://www.interfacefloor.com) Mattor. Enkla, biliga och förhållandevis snygga. Miljövänligt tillverkade, iallafall delar av sortimentet.
+* [Interfacefloor](http://interface.com/) Mattor. Enkla, biliga och förhållandevis snygga. Miljövänligt tillverkade, iallafall delar av sortimentet.
 * [Kasthall](http://www.kasthall.se)
 * [Ogeborg](http://www.ogeborg.se/) Textilmattor
 
