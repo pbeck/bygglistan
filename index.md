@@ -94,7 +94,7 @@ layout: default
 <h1 id="väggar-glaspartier" class="page-header">Väggar och Glaspartier</h1>
 
 * [Moelven](http://www.moelven.com/se/) Glaspartier, systemväggar, golv och panelsystem
-* [Morgana](http://www.morgana.se/sv-se/start.aspx) Glaspartier, men även kontorsmöbler och inredningslösningar
+* [Morgana](http://www.morgana.se) Glaspartier, men även kontorsmöbler och inredningslösningar
 * [Silent Gliss](http://www.silentgliss.se/go/Produkter) Draperier, gardinsystem, mörkläggningssystem, etc.
 
 <h1 id="akustik" class="page-header">Akustik</h1>
@@ -129,10 +129,9 @@ layout: default
 
 <h1 id="textilgolv" class="page-header">Textilgolv</h1>
 
-* [Interfacefloor](http://www.interfacefloor.cominterfacefloor.com) Mattor. Enkla, biliga och förhållandevis snygga. Miljövänligt tillverkade, iallafall delar av sortimentet.
+* [Interfacefloor](http://www.interfacefloor.com) Mattor. Enkla, biliga och förhållandevis snygga. Miljövänligt tillverkade, iallafall delar av sortimentet.
 * [Kasthall](http://www.kasthall.se)
 * [Ogeborg](http://www.ogeborg.se/) Textilmattor
-* [Oddard](http://www.stoddard.se/) Tillverkare och leverantör av mattor till offentlig miljö. Gångmattor, avpassade mattor och heltäckningsmattor. 
 
 <h1 id="plastgolv" class="page-header">Plastgolv</h1>
 
