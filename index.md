@@ -21,6 +21,7 @@ layout: default
 <a href="#plastgolv" class="btn btn-default" role="button">Plastgolv</a>
 <a href="#köksinredning" class="btn btn-default" role="button">Köksinredning</a>
 <a href="#kompletta-kök" class="btn btn-default" role="button">Kompletta kök</a>
+<a href="#snickerier-detaljer" class="btn btn-default" role="button">Snickerier och Detaljer</a>
 <a href="#specialmaterial-lös-inredning" class="btn btn-default" role="button">Specialmaterial och Lös inredning</a>
 <a href="#tjänster-konsulter" class="btn btn-default" role="button">Tjänster och Konsulter</a>
 
@@ -162,6 +163,10 @@ layout: default
 * [Canadaköket](http://www.canadakoket.se/) "Vår ambition är att ta en position som Sveriges mest exklusiva kökstillverkare"
 * [Kungsäterkök](http://www.kungsaterkok.se/)
 * [Hagaköket](http://www.hagakoket.se/)
+* [Poggenpohl](https://www.poggenpohl.com) Exklusiva kök 🇩🇪
+
+<h1 id="snickerier-detaljer" class="page-header">Snickerier och Detaljer</h1>
+* [Buster + Punch](http://www.busterandpunch.com) Eleganta och ovanliga elprodukter 🇬🇧
 
 <h1 id="specialmaterial-lös-inredning" class="page-header">Specialmaterial och Lös inredning</h1>
 
