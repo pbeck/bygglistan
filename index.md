@@ -166,7 +166,7 @@ layout: default
 * [Poggenpohl](https://www.poggenpohl.com) Exklusiva kök 🇩🇪
 
 <h1 id="snickerier-detaljer" class="page-header">Snickerier och Detaljer</h1>
-* [Buster + Punch](http://www.busterandpunch.com) Eleganta och ovanliga elprodukter 🇬���
+* [Buster + Punch](http://www.busterandpunch.com) Eleganta och ovanliga elprodukter 🇬🇧
 * [Specialbeslag](http://www.specialbeslag.se) Specialbeslag, dörrhandtag, krokar och knoppar
 
 <h1 id="specialmaterial-lös-inredning" class="page-header">Specialmaterial och Lös inredning</h1>
