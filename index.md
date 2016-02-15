@@ -75,6 +75,7 @@ layout: default
 
 <h1 id="textil" class="page-header">Textil</h1>
 
+* [Kvadrat](http://kvadrat.dk/) Textilier och tyger för privat och offentliga miljöer. 🇩🇰
 * [Ink &amp; Spindle](http://inkandspindle.com/) Handtryckta textilier från Australien 🇳🇿
 * [Nevotex](http://ehandel.nevotex.se/) Grossist av material till inrednings- och stoppmöbelindustrin. Tyger, läder, skinn, konstläder, möbeltyger och andra material för möbeltillverkning. 
 
