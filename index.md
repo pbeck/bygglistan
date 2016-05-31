@@ -180,7 +180,7 @@ layout: default
 * [Fatboy](http://www.fatboyusa.com/us/collection/) Sittsäckar, m.m.
 * [Brittfurn](http://www.brittfurn.se/) Möbler &amp; inredning i "brittisk" stil för privatkunder.
 * [Restoration Hardware](https://www.restorationhardware.com/) "Restoration Hardware is a luxury brand in the home furnishings marketplace offering furniture, lighting, textiles, bathware, décor, outdoor and garden, as well as baby & child products" 🇺🇸
-
+* [Handmade Tents](http://www.handmadetents.com/) Tält i traditionella och exklusiva former 🇮🇳
 <div id="tjänster-konsulter"></div>
 <h1 class="page-header">Allmänt</h1>
 
