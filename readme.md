@@ -1,3 +1,3 @@
-Bygglistan.com
+[Bygglistan.com](http://bygglistan.com)
 
-(c) Beckman Creative, beckmancreative.se
+Görs av [Pelle Beckman](http://twitter.com/@pbeck)
