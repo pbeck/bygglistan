@@ -15,10 +15,6 @@ body {
     font-kerning: normal;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
-    font-feature-settings: "ss02";
-    -webkit-font-feature-settings: "ss02";
-    -moz-font-feature-settings: "ss02";
-    font-variant-alternates: styleset("ss02");
 }
 
 nav.navbar {
