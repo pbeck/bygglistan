@@ -113,7 +113,7 @@ layout: default
 * [Thomas Crapper](http://www.thomas-crapper.com/) Exklusiva badrumsprodukter 🇬🇧
 * [Freese & Bruno](http://www.f-bruno.com/) Porslin & kakel
 * [ROHL](http://www.rohlhome.com/home.aspx) Badrum & kök 🇺🇸
-
+* [Harvia](http://www.harvia.fi/content/sv/1/10004/Framsida.html) Bastuaggregat och bastuinredning 🇫🇮
 <h1 id="dörrar-fönster" class="page-header">Dörrar och Fönster</h1>
 
 * [Snickar Per](http://www.snickarper.se/) Inner- och ytterdörrar
