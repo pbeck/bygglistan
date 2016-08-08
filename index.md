@@ -21,6 +21,7 @@ layout: default
 <a href="#plastgolv" class="btn btn-default" role="button">Plastgolv</a>
 <a href="#köksinredning" class="btn btn-default" role="button">Köksinredning</a>
 <a href="#kompletta-kök" class="btn btn-default" role="button">Kompletta kök</a>
+<a href="#växthus" class="btn btn-default" role="button">Växthus</a>
 <a href="#snickerier-detaljer" class="btn btn-default" role="button">Snickerier och Detaljer</a>
 <a href="#specialmaterial-lös-inredning" class="btn btn-default" role="button">Specialmaterial och Lös inredning</a>
 <a href="#tjänster-konsulter" class="btn btn-default" role="button">Tjänster och Konsulter</a>
@@ -165,6 +166,11 @@ layout: default
 * [Kungsäterkök](http://www.kungsaterkok.se/)
 * [Hagaköket](http://www.hagakoket.se/)
 * [Poggenpohl](https://www.poggenpohl.com) Exklusiva kök 🇩🇪
+
+<h1 id="växthus" class="page-header">Växthus</h1>
+* [Hartlet Botanic](http://www.vanstatradgard.se/produkter/hartley-botanic/)
+* [Tanglewood Conservatories](http://tanglewoodconservatories.com/greenhouses/classic-english-greenhouse/]  🇬�
+* [http://www.hallsgreenhouses.com/]
 
 <h1 id="snickerier-detaljer" class="page-header">Snickerier och Detaljer</h1>
 * [Buster + Punch](http://www.busterandpunch.com) Eleganta och ovanliga elprodukter 🇬🇧
