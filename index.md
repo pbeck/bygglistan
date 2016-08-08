@@ -195,6 +195,7 @@ layout: default
 * [BIMObject](http://bimobject.com/sv) Databas med stor mängd BIM-objekt av byggnadselement, möbler, lös inredning, m.m.
 * [Materialbiblioteket](http://www.materialbiblioteket.se/) Showroom med exempel på materialprover och tekniska lösningar.
 * [Calc Net](http://calcnet.ciber.se/Default.aspx) "Denna i branschen välrenommerade och spridda produkt, som är avsedd att ge vägledning i tidiga skeden, t.ex. vid jämförelse mellan olika alternativ, finns nu även tillgänglig i digital form, Calc Net, via Internet."
+* [SCB-listor](http://www.scb.se/sv_/Hitta-statistik/Statistik-efter-amne/Boende-byggande-och-bebyggelse/) SCBs statistik på områdena boende, byggande och bebyggelse
 
 
 <h1 class="page-header">Finsnickare</h1>
