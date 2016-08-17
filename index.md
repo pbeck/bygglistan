@@ -128,7 +128,7 @@ layout: default
 
 * [Kährs](http://www.kahrs.com/sv-SE/Arkitekt/) Trägolv
 * [Stombergs](http://www.stombergs.se/index.asp) Massiva trägolv
-* [Almedalsgolv](http://www.almedalsgolv.se/se/)Massiva trägolv. Tiljor, kubbgolv och industriparketter.
+* [Almedalsgolv](http://www.almedalsgolv.se/se/) Massiva trägolv. Tiljor, kubbgolv och industriparketter.
 
 <h1 id="textilgolv" class="page-header">Textilgolv</h1>
 
@@ -186,6 +186,8 @@ layout: default
 * [Brittfurn](http://www.brittfurn.se/) Möbler &amp; inredning i "brittisk" stil för privatkunder.
 * [Restoration Hardware](https://www.restorationhardware.com/) "Restoration Hardware is a luxury brand in the home furnishings marketplace offering furniture, lighting, textiles, bathware, décor, outdoor and garden, as well as baby & child products" 🇺🇸
 * [Handmade Tents](http://www.handmadetents.com/) Tält i traditionella och exklusiva former 🇮🇳
+* [Seattle Flag Makers](http://www.seattleflagmakers.com/) Skeppsflaggor för stora och små fartyg (och interiörer)
+* 
 <div id="tjänster-konsulter"></div>
 <h1 class="page-header">Allmänt</h1>
 
