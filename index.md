@@ -73,6 +73,7 @@ layout: default
 * [BoråsTapeter](http://www.borastapeter.se/sv/)
 * [Sanderson](https://www.sanderson-uk.com/) Tapet &amp; textil 🇬🇧
 * [Lim &amp; Handtryck](http://www.limohandtryck.se/) Traditionella tapeter &amp; färger sorterade efter stilepok
+* [Calico Wallpaper](http://calicowallpaper.com/) Handgjorda tapeter – bl.a. med gradienter – från Brooklyn.
 
 <h1 id="textil" class="page-header">Textil</h1>
 
@@ -187,7 +188,7 @@ layout: default
 * [Restoration Hardware](https://www.restorationhardware.com/) "Restoration Hardware is a luxury brand in the home furnishings marketplace offering furniture, lighting, textiles, bathware, décor, outdoor and garden, as well as baby & child products" 🇺🇸
 * [Handmade Tents](http://www.handmadetents.com/) Tält i traditionella och exklusiva former 🇮🇳
 * [Seattle Flag Makers](http://www.seattleflagmakers.com/) Skeppsflaggor för stora och små fartyg (och interiörer)
-* 
+
 <div id="tjänster-konsulter"></div>
 <h1 class="page-header">Allmänt</h1>
 
