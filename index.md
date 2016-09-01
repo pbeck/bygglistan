@@ -130,6 +130,7 @@ layout: default
 * [Kährs](http://www.kahrs.com/sv-SE/Arkitekt/) Trägolv
 * [Stombergs](http://www.stombergs.se/index.asp) Massiva trägolv
 * [Almedalsgolv](http://www.almedalsgolv.se/se/) Massiva trägolv. Tiljor, kubbgolv och industriparketter.
+* [Acorn and Lilac](http://www.acornandlilac.se) ”Välkommen till Acorn and Lilac, troligtvis Sveriges minsta golv- och kakelbutik. På våra 28 kvadrat erbjuder vi bland det bästa man kan hitta inom ek- & askgolv, viktorianskt klinker, engelskt kakel, stengolv och mycket mer.”
 
 <h1 id="textilgolv" class="page-header">Textilgolv</h1>
 
