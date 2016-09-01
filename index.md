@@ -156,6 +156,7 @@ layout: default
 * [Superfront](http://www.superfront.com/se/) Lådfronter till IKEA möbel- och köksskåpstommar
 * [DecoSteel](http://www.decosteel.se/) Disbänkar & diskhoar (bl.a. i mässing)
 * [Köksbörsen](http://www.koksborsen.com/) Restaurang och storkök
+* [Kohler](http://www.us.kohler.com/us/) Kök, badrum, ”plumbing”, skåp & skåpsluckor 🇺🇸
 
 <h1 id="kompletta-kök" class="page-header">Kompletta Kök</h1>
 
