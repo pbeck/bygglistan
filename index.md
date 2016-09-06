@@ -25,6 +25,7 @@ layout: default
 <a href="#snickerier-detaljer" class="btn btn-default" role="button">Snickerier och Detaljer</a>
 <a href="#specialmaterial-lös-inredning" class="btn btn-default" role="button">Specialmaterial och Lös inredning</a>
 <a href="#tjänster-konsulter" class="btn btn-default" role="button">Tjänster och Konsulter</a>
+<a href="#byggföretag" class="btn btn-default" role="button">Byggföretag</a>
 
 
 <h1 id="byggnadsvård" class="page-header">Byggnadsvård</h1>
@@ -212,3 +213,13 @@ layout: default
 
 #### Göteborg
 * [Möbelslöjd](http://www.mobelslojd.se)
+
+<h1 id="byggföretag" class="page-header">Byggföretag</h1>
+
+* [Hemviken Bygg](http://www.hemvikenbygg.se)
+* T. Svensson Bygg i Huddinge AB, Kontakt: Jani, 070 720 73 47
+* [Celmar Bygg](https://celmarbygg.se/index.html)
+* [Tilda & co](http://tildaco.se/) ”Tilda & Co. Fastighetsförädling kan hjälpa dig med ändringar i planlösningen, utbyggnationer, kök, badrum, specialsnickerier, bokhyllor, garderober etc. Vi kliver gärna ut i trädgården och hjälper till också. Oavsett om det är ett litet eller stort projekt så hjälper vi dig från idé till slutresultat.”
+* [Swedenborg Bygg](http://swedenborgsbygg.se), stefan@swedenborgsbygg.se • 070-810 5157
+* [DDHus](http://ddhus.se/hem)
+* [Aktiv Renovering Innerstan](http://www.aktivrenoveringinnerstan.se/)
