@@ -191,6 +191,7 @@ layout: default
 * [Restoration Hardware](https://www.restorationhardware.com/) "Restoration Hardware is a luxury brand in the home furnishings marketplace offering furniture, lighting, textiles, bathware, décor, outdoor and garden, as well as baby & child products" 🇺🇸
 * [Handmade Tents](http://www.handmadetents.com/) Tält i traditionella och exklusiva former 🇮🇳
 * [Seattle Flag Makers](http://www.seattleflagmakers.com/) Skeppsflaggor för stora och små fartyg (och interiörer)
+* [Kaufmann Mercantile](https://www.kaufmann-mercantile.com/) Blandad lös inredning och design
 
 <div id="tjänster-konsulter"></div>
 <h1 class="page-header">Allmänt</h1>
