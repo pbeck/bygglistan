@@ -25,6 +25,7 @@ layout: default
 <a href="#snickerier-detaljer" class="btn btn-default" role="button">Snickerier och Detaljer</a>
 <a href="#specialmaterial-lös-inredning" class="btn btn-default" role="button">Specialmaterial och Lös inredning</a>
 <a href="#tjänster-konsulter" class="btn btn-default" role="button">Tjänster och Konsulter</a>
+<a href="#mjukvara-webbtjänster" class="btn btn-default" role="button">Mjukvara och Webbtjänster</a>
 <a href="#byggföretag" class="btn btn-default" role="button">Byggföretag</a>
 
 
@@ -214,6 +215,9 @@ layout: default
 
 #### Göteborg
 * [Möbelslöjd](http://www.mobelslojd.se)
+
+<h1 id="mjukvara-webbtjänster" class="page-header">Mjukvara och Webbtjänster</h1>
+* [SunCalc](http://suncalc.net) Webbtjänst för att göra enkla och snabba solstudier från Google Maps.
 
 <h1 id="byggföretag" class="page-header">Byggföretag</h1>
 
