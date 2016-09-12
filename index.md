@@ -196,6 +196,7 @@ layout: default
 * [Seattle Flag Makers](http://www.seattleflagmakers.com/) Skeppsflaggor för stora och små fartyg (och interiörer)
 * [Kaufmann Mercantile](https://www.kaufmann-mercantile.com/) Blandad lös inredning och design
 * [Chesney’s](http://chesneys.co.uk/) Öppna spisar och ugnar 🇬🇧
+* [Surface View](https://www.surfaceview.co.uk/) Tryckerier, också på t.ex. lampskärmar och tapet.
 
 <div id="tjänster-konsulter"></div>
 <h1 class="page-header">Allmänt</h1>
