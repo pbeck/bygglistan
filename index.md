@@ -21,7 +21,7 @@ layout: default
 <a href="#plastgolv" class="btn btn-default" role="button">Plastgolv</a>
 <a href="#köksinredning" class="btn btn-default" role="button">Köksinredning</a>
 <a href="#kompletta-kök" class="btn btn-default" role="button">Kompletta kök</a>
-<a href="#växthus" class="btn btn-default" role="button">Växthus</a>
+<a href="#växthus-trädgård" class="btn btn-default" role="button">Växthus och Trädgård</a>
 <a href="#snickerier-detaljer" class="btn btn-default" role="button">Snickerier och Detaljer</a>
 <a href="#specialmaterial-lös-inredning" class="btn btn-default" role="button">Specialmaterial och Lös inredning</a>
 <a href="#tjänster-konsulter" class="btn btn-default" role="button">Tjänster och Konsulter</a>
@@ -76,6 +76,7 @@ layout: default
 * [Sanderson](https://www.sanderson-uk.com/) Tapet &amp; textil 🇬🇧
 * [Lim &amp; Handtryck](http://www.limohandtryck.se/) Traditionella tapeter &amp; färger sorterade efter stilepok
 * [Calico Wallpaper](http://calicowallpaper.com/) Handgjorda tapeter – bl.a. med gradienter – från Brooklyn.
+* [Adelphi Paper Hangings](http://www.adelphipaperhangings.com/) Handgjorda historiska tapeter, ”block-printed”. 🇬🇧
 
 <h1 id="textil" class="page-header">Textil</h1>
 
@@ -172,9 +173,10 @@ layout: default
 * [Hagaköket](http://www.hagakoket.se/)
 * [Poggenpohl](https://www.poggenpohl.com) Exklusiva kök 🇩🇪
 
-<h1 id="växthus" class="page-header">Växthus</h1>
+<h1 id="växthus-trädgård" class="page-header">Växthus och Trädgård</h1>
 * [Hartlet Botanic](http://www.vanstatradgard.se/produkter/hartley-botanic/) Svensk ÅF av Hartlet Botanic
 * [Tanglewood Conservatories](http://tanglewoodconservatories.com/greenhouses/classic-english-greenhouse/) Exklusiva växthus från Storbritannien 🇬🇧
+* [Haddonstone](http://www.haddonstone.com/en-gb) Traditionell stenkonst, ornament, pilastrar, etc. 🇬🇧
 
 <h1 id="snickerier-detaljer" class="page-header">Snickerier och Detaljer</h1>
 * [Buster + Punch](http://www.busterandpunch.com) Eleganta och ovanliga elprodukter 🇬🇧
@@ -193,6 +195,7 @@ layout: default
 * [Handmade Tents](http://www.handmadetents.com/) Tält i traditionella och exklusiva former 🇮🇳
 * [Seattle Flag Makers](http://www.seattleflagmakers.com/) Skeppsflaggor för stora och små fartyg (och interiörer)
 * [Kaufmann Mercantile](https://www.kaufmann-mercantile.com/) Blandad lös inredning och design
+* [Chesney’s](http://chesneys.co.uk/) Öppna spisar och ugnar 🇬🇧
 
 <div id="tjänster-konsulter"></div>
 <h1 class="page-header">Allmänt</h1>
