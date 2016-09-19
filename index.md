@@ -119,6 +119,8 @@ layout: default
 * [Freese & Bruno](http://www.f-bruno.com/) Porslin & kakel
 * [ROHL](http://www.rohlhome.com/home.aspx) Badrum & kök 🇺🇸
 * [Harvia](http://www.harvia.fi/content/sv/1/10004/Framsida.html) Bastuaggregat och bastuinredning 🇫🇮
+* [Duschbyggarna](http://duschbyggarna.se/) Badrumsinredning. Bra utbud av duschväggar.
+
 <h1 id="dörrar-fönster" class="page-header">Dörrar och Fönster</h1>
 
 * [Snickar Per](http://www.snickarper.se/) Inner- och ytterdörrar
