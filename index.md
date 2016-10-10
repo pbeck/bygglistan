@@ -67,6 +67,7 @@ layout: default
 * [Flux](https://www.flux.nu/) Offentlig belysning
 * [IFÖ](http://www.ifoelectric.com/index.html) Armaturer, kopplingsdosor, m.m.
 * [Artecnica](http://www.artecnicainc.com/Products/Lighting) Ovanliga och exklusiva armaturer
+* [Hager](http://www.hager.se/produkter/stroemstaellare-och-fastighetsautomatik/690.htm) Hager strömställare
 
 <h1 id="tapet" class="page-header">Tapet</h1>
 
