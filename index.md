@@ -57,6 +57,7 @@ layout: default
 * [Abstracta](http://abstracta.se/sv/) Akustikskärmar, skärmar, m.m. för kontorsmiljöer
 * [Swedese](http://www.swedese.se/) Möbeltillverkare
 * [Vitra](http://www.vitra.com/) Klassisk möbeltillverkare med bl.a. Eames-möbler i stallet
+* [Interstuhl](http://www.interstuhl.com/) Tysk stoltillverkare. ”Official provider of James Bond chairs”. 🇩🇪
 
 <h1 id="belysning" class="page-header">Belysning</h1>
 
