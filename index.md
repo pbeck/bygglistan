@@ -201,6 +201,9 @@ layout: default
 * [Kaufmann Mercantile](https://www.kaufmann-mercantile.com/) Blandad lös inredning och design
 * [Chesney’s](http://chesneys.co.uk/) Öppna spisar och ugnar 🇬🇧
 * [Surface View](https://www.surfaceview.co.uk/) Tryckerier, också på t.ex. lampskärmar och tapet.
+* [Moooi](https://www.moooi.com/uk) Inredning och möbler
+* [Nikari Oy](http://nikari.fi/company) Trämöbler. Finland!
+
 
 <div id="tjänster-konsulter"></div>
 <h1 class="page-header">Allmänt</h1>
